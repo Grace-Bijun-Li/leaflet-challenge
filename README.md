@@ -9,11 +9,11 @@ Here, we are able to bring the alive and interactive geomap to you that helps to
 ### Instruction
 
 Please find the following documents for better understanding:
-1. [index.html](https://github.com/Grace-Bijun-Li/belly-button-biodiversity-dashboard/blob/main/Code/samples.json)
+1. [index.html](https://github.com/Grace-Bijun-Li/leaflet-challenge/blob/main/index.html)
     - This is the template that takes the codes from the **static** folder and display them into the geomap.
-2. [style.css](https://github.com/Grace-Bijun-Li/belly-button-biodiversity-dashboard/blob/main/Code/samples.json)
+2. [style.css](https://github.com/Grace-Bijun-Li/leaflet-challenge/blob/main/static/css/style.css)
     - This file, work with the **index.html** file, designs the formats of the HTML template.
-3. [logic.js](https://github.com/Grace-Bijun-Li/belly-button-biodiversity-dashboard/blob/main/Code/samples.json)
+3. [logic.js](https://github.com/Grace-Bijun-Li/leaflet-challenge/blob/main/static/js/logic.js)
     - This is the main JS script that deploys the *Leaflet* functions.
 
 ### Enjoy the map!
